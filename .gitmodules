@@ -1,0 +1,4 @@
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 10.0
